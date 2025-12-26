@@ -192,20 +192,20 @@ Whether you’re building something meaningful, exploring system design, or want
 <div align="center">
 
 <p align="center">
-  <a href="https://sdhamini.vercel.app/" target="blank">
-    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio" width="35" height="35"/>
+  <a href="https://sdhamini.vercel.app/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio" width="30" height="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dhamini/" target="blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="35" height="35"/>
+  <a href="https://www.linkedin.com/in/dhamini/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:dhaminis028@gmail.com" target="blank">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="35" height="35"/>
+  <a href="mailto:dhaminis028@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="30" height="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1BDd1AVyLr2Z2mO3KqqKfJ0KBQNvyhO0H/view?usp=drive_link" target="blank">
-    <img src="https://img.icons8.com/fluency/48/000000/resume.png" alt="Resume" width="35" height="35"/>
+  <a href="https://drive.google.com/file/d/1BDd1AVyLr2Z2mO3KqqKfJ0KBQNvyhO0H/view?usp=drive_link" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/000000/resume.png" alt="Resume" width="30" height="30"/>
   </a>
 </p>
 
