@@ -22,7 +22,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2ywdsnh3bz8bby&rid=giphy.gif" width="32">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2ywdsnh3bz8bby&rid=giphy.gif" width="20" height="20">
   About Me
 </h2>
 
