@@ -19,7 +19,7 @@
 
 </div>
 
----
+
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2ywdsnh3bz8bby&rid=giphy.gif" width="20" height="20">
@@ -57,7 +57,7 @@ class Dhamini:
 ---
 
 <h2 align="center">
-  🛠️ Tech Stack & Tools
+  Tech Stack & Tools
 </h2>
 
 <p align="center">
@@ -128,54 +128,29 @@ class Dhamini:
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="65" height="65"/><br>Solidity
     </td>
   </tr>
-</table
----
-
-<h2 align="center">
-  🎯 Current Focus
-</h2>
-
-<br>
-
-<table>
-<tr><td>
-
-### 🔒 **Secure System Engineering**
-
-Designing reliable and secure backend systems with a focus on scalability, performance, and real-world deployment. Working with Spring Boot, Node.js, Linux, and containerized environments to build production-ready services.
-
-</td></tr>
-<tr><td>
-
-### ⛓️ **Blockchain & Smart Contract Security**
-
-Building and auditing smart contract systems using Solidity and Ethereum testnets. Exploring automated vulnerability detection, formal analysis tools, and contract verification to improve reliability and security of decentralized applications.
-
-</td></tr>
-<tr><td>
-
-### ☁️ **Cloud-Native Application Development**
-
-Developing and deploying cloud-native applications using Docker, Vercel, and modern DevOps practices. Learning infrastructure fundamentals and exploring scalable deployment patterns for web and backend systems.
-
-</td></tr>
-<tr><td>
-
-### 🔬 **Applied Research & Optimization**
-
-Exploring compiler optimizations, system performance analysis, and verification techniques through research-oriented projects, with an interest in building efficient and trustworthy software systems.
-
-</td></tr>
 </table>
 
----
+<br>
+<h2 align="center">
+  Current Focus
+</h2>
 
+> ### 🔒 **Secure System Engineering**
+> Designing reliable and secure backend systems with a focus on scalability, performance, and real-world deployment. Working with Spring Boot, Node.js, Linux, and containerized environments to build production-ready services.
 
+> ### ⛓️ **Blockchain & Smart Contract Security**
+> Building and auditing smart contract systems using Solidity and Ethereum testnets. Exploring automated vulnerability detection, formal analysis tools, and contract verification to improve reliability and security of decentralized applications.
+
+> ### ☁️ **Cloud-Native Application Development**
+> Developing and deploying cloud-native applications using Docker, Vercel, and modern DevOps practices. Learning infrastructure fundamentals and exploring scalable deployment patterns for web and backend systems.
+
+> ### 🔬 **Applied Research & Optimization**
+> Exploring compiler optimizations, system performance analysis, and verification techniques through research-oriented projects, with an interest in building efficient and trustworthy software systems.
+
+<br>
 <h2 align="center">
   🏆 Highlights & Achievements
 </h2>
-
-<br>
 
 ```yaml
 education:
@@ -210,7 +185,6 @@ achievements:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF4444&center=true&vCenter=true&width=700&lines=Open+to+Backend+Systems+Discussions;Blockchain+Security+Enthusiast;Cloud-Native+Development;Research-Oriented+Projects" />
 </p>
 
-<br>
 
 I’m always open to discussing **backend systems**, **blockchain security**, **cloud-native development**, and **research-oriented projects**.  
 Whether you’re building something meaningful, exploring system design, or want to exchange ideas on secure and scalable software — I’d love to connect!
@@ -218,24 +192,22 @@ Whether you’re building something meaningful, exploring system design, or want
 <div align="center">
 
 <p align="center">
-  <a href="https://sdhamini.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio" width="48" height="48"/>
+  <a href="https://sdhamini.vercel.app/" target="blank">
+    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio" width="35" height="35"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dhamini/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/>
+  <a href="https://www.linkedin.com/in/dhamini/" target="blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="35" height="35"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:dhaminis028@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="48" height="48"/>
+  <a href="mailto:dhaminis028@gmail.com" target="blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="35" height="35"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1BDd1AVyLr2Z2mO3KqqKfJ0KBQNvyhO0H/view?usp=drive_link" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/resume.png" alt="Resume" width="48" height="48"/>
+  <a href="https://drive.google.com/file/d/1BDd1AVyLr2Z2mO3KqqKfJ0KBQNvyhO0H/view?usp=drive_link" target="blank">
+    <img src="https://img.icons8.com/fluency/48/000000/resume.png" alt="Resume" width="35" height="35"/>
   </a>
 </p>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
